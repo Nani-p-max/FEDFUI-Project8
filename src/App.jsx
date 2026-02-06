@@ -51,7 +51,7 @@ export default class App extends Component {
             </tbody>
           </table>
         </div>
-        <div className='footer'>2500031371 </div>
+        <div className='footer'>copyright reserved 2026 . </div>
 
         {showpopup && (
           <div className='overlay'>
